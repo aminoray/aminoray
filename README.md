@@ -1,11 +1,20 @@
-<img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
+<!-- <img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif"> -->
 <!-- ### Hi there 👋-->
+<p align="center">
+  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif" width="200px">
+</p>
 
+<h1 align="center">
+  Hi 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px">
+  , I'm Aditya Sharan 
+  <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" style="width: 36px;">
+</h1>
 
-<h3>
+<!-- <h3>
   Hi! My name is Ray.
   <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" style="width: 36px;">
-</h3>
+</h3> -->
 
 ### Skills
 <!-- Badge Template: <img src="https://img.shields.io/badge/-<LabeltoShow>-<IconsColorCode>?style=flat&logo=<IconsName>&logoColor=white"/>  -->

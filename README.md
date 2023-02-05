@@ -43,11 +43,6 @@
   <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=React&logoColor=white"/>
 </p>
 
-#### Middlewares
-<p>
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
-</p>
-
 #### Cloud
 <p>
 <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=Google%20Cloud&logoColor=white"/>

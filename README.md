@@ -12,13 +12,9 @@
 </h1>
 
 <p align="center">  
-  <img src="https://user-images.githubusercontent.com/46247882/87126810-77e5d000-c2aa-11ea-832f-70aa4fe394f9.gif" alt="alt text" width="150" height="150" />
+  <img src="https://github.com/aminoray/aminoray/blob/main/white.gif" width="100%" height="auto" />
 </p>
 
-<!-- <h3>
-  Hi! My name is Ray.
-  <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" style="width: 36px;">
-</h3> -->
 
 ### Skills
 <!-- Badge Template: <img src="https://img.shields.io/badge/-<LabeltoShow>-<IconsColorCode>?style=flat&logo=<IconsName>&logoColor=white"/>  -->

@@ -47,6 +47,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra
 )](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={Ray}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={aminoray}
 )](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=aminoray&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy)

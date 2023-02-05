@@ -12,7 +12,7 @@
 </h1>
 
 <p align="center">  
-  <img src="https://github.com/aminoray/aminoray/blob/main/white.gif" width="100%" height="auto" />
+  <img src="https://github.com/aminoray/aminoray/blob/main/white.gif" width="80%" height="auto" />
 </p>
 
 

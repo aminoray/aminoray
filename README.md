@@ -7,7 +7,8 @@
 
 #### Languages
 <p>
-  <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Php-777BB4.svg?logo=php&style=plastic">
+  <img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=plastic">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white"/>
@@ -17,6 +18,8 @@
 
 #### Libraries and FrameWorks
 <p>
+  <img src="https://img.shields.io/badge/-Laravel-E74430.svg?logo=laravel&style=plastic">
+  <img src="https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=flat">
   <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=React&logoColor=white"/>
@@ -32,16 +35,6 @@
 <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=Google%20Cloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white"/>
 </p>
-
-#### Editors
-<p>
-</p>
-
-#### Tools
-<p>
-<img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=GitHub%20Actions&logoColor=white"/>
-</p>
-
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aminoray&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy)

@@ -12,7 +12,7 @@
 </h1>
 
 <p align="center">  
-  <img src="https://github.com/aminoray/aminoray/blob/main/white.gif" width="80%" height="auto" />
+  <img src="https://github.com/aminoray/aminoray/blob/main/white.gif" width="70%" height="auto" />
 </p>
 
 
@@ -45,5 +45,6 @@
 <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white"/>
 </p>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra
+)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=aminoray&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy)

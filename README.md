@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
+<!-- ### Hi there 👋-->
 
 ## I'm Ray🦈
 

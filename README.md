@@ -1,10 +1,11 @@
 <img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
 <!-- ### Hi there 👋-->
 
-<h2>
+
+<h3>
   Hi! My name is Ray.
-  <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" style="width: 10px;">
-</h2>
+  <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" style="width: 36px;">
+</h3>
 
 ### Skills
 <!-- Badge Template: <img src="https://img.shields.io/badge/-<LabeltoShow>-<IconsColorCode>?style=flat&logo=<IconsName>&logoColor=white"/>  -->

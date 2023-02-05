@@ -7,8 +7,8 @@
 <h1 align="center">
   Hi 
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px">
-  , I'm Aditya Sharan 
-  <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" style="width: 36px;">
+  , I'm Rei 
+  <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" style="width: 40px;">
 </h1>
 
 <!-- <h3>
